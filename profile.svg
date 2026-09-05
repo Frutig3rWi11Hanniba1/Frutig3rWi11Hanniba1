@@ -1,0 +1,53 @@
+<svg width="500" height="190" viewBox="0 0 500 190" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="190" rx="12" fill="#10151A"/>
+
+  <text x="250" y="30"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="18"
+        fill="#B8FF00">⋆ ˚꩜｡ ⋆</text>
+
+  <text x="250" y="60"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="22"
+        font-weight="bold"
+        fill="#53E6D1">ANDY.</text>
+
+  <text x="250" y="88"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="15"
+        fill="#F2F2F2">she / they • 19</text>
+
+  <text x="250" y="116"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="15">
+    <tspan fill="#F2F2F2">Aromatic | </tspan>
+    <tspan fill="#53E6D1">⚥</tspan>
+    <tspan fill="#F2F2F2"> | </tspan>
+    <tspan fill="#B8FF00">eng</tspan>
+    <tspan fill="#F2F2F2"> / esp </tspan>
+    <tspan fill="#53E6D1">+</tspan>
+  </text>
+
+  <text x="250" y="144"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="15">
+    <tspan fill="#53E6D1">OCD</tspan>
+    <tspan fill="#F2F2F2"> + </tspan>
+    <tspan fill="#B8FF00">Adhd</tspan>
+    <tspan fill="#53E6D1"> + </tspan>
+    <tspan fill="#F2F2F2">Ptsd</tspan>
+    <tspan fill="#B8FF00"> + </tspan>
+    <tspan fill="#53E6D1">Disabled</tspan>
+  </text>
+
+  <text x="250" y="174"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="15"
+        fill="#F2F2F2">Check my sites!</text>
+</svg>
