@@ -10,7 +10,7 @@ ${\textsf{\color{#ffffff}ꜜ　she / they . 19 }}$
 　 ${\textsf{\color{#ffffff}  | }}$
 　 ${\textsf{\color{#B7FF00}  eng }}$
    ${\textsf{\color{#ffffff} / }}$
- 　${\textsf{\color{#ffffff} esp  }}$
+   ${\textsf{\color{#ffffff} esp  }}$
    ${\textsf{\color{#00FFFF} + }}$
 
    ${\textsf{\color{#00FFFF}  OCD }}$
