@@ -5,7 +5,7 @@ ${\textsf{\color{#00FFFF}∿　⁺　　ANDY 　.}}$
 
 ${\textsf{\color{#ffffff}ꜜ　she / they . 19 }}$
 
-　 ${\textsf{\color{#ffffff}ᵔ　 aromatic | }}$
+　 ${\textsf{\color{#ffffff}ᵔ　 Aromatic | }}$
 　 ${\textsf{\color{#00FFFF}   ⚥ }}$
 　 ${\textsf{\color{#ffffff}  | }}$
 　 ${\textsf{\color{#B7FF00}  eng }}$
