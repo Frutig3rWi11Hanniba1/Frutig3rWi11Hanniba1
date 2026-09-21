@@ -2,7 +2,7 @@
   <img src="./profile.svg" alt="Andy profile">
 </p>
 
-\centering ${\textsf{\color{#B7FF00}∿               　⋆ ˚꩜｡ ⋆ }}$
+\begin${\textsf{\color{#B7FF00}∿               　⋆ ˚꩜｡ ⋆ }}$
 
 ${\textsf{\color{#00FFFF}∿　⁺　　ANDY 　.　　ꜜ　she / they . 19　——}}$
 
